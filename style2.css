@@ -1,0 +1,27 @@
+.cols
+{
+  background-color: lightgrey;
+}
+.container
+{
+  margin-top: 20px;
+}
+.btn1
+{
+  background-color: white;
+}
+.content
+{
+  border: solid 1px blue;
+  height: 200px;
+}
+footer {
+    background-color: #555;
+    color: white;
+    width:auto;
+    padding: 15px;
+  }
+.sidenav
+{
+  height: 1400px;
+}
